@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Konstantin Polosin</h1>
 <h3 align="center">I’m a very versatile developer with over 7 years experience in many interesting web projects in a broad range of direction: e-commerce, development, cars, art, pharmacy, extreme, beauty etc.<br/>At now my main direction in the work is a full-stack wordpress development.</h3>
 
-- 🎯 I'm currently working as a full-stack wordpress developer
+- 🎯 I'm currently working as a **full-stack wordpress developer**
 
 - 🌱 I’m currently learning **vanilla js**
 
-- 👨‍💻 All of my projects and more info are available at [https://kpolosin.com/](https://kpolosin.com/)
+- 👨‍💻 All of my projects and more info are available at **[kpolosin.com](https://kpolosin.com/)**
+
+- 👻 My simple profile card with cool UI are available at **[kpolosin.github.io](https://kpolosin.github.io/)**
 
 - 💬 Ask me about **wordpress, php, js, front-end/back-end**
 
