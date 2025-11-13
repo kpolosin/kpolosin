@@ -1,21 +1,72 @@
-<h1 align="center">Hi 👋, I'm Konstantin Polosin</h1>
-<h3 align="center">I’m a very versatile developer with over 7 years experience in many interesting web projects in a broad range of direction: e-commerce, development, cars, art, pharmacy, extreme, beauty etc.<br/>At now my main direction in the work is a full-stack wordpress development.</h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Konstantin%20Polosin&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20WordPress%20Developer&descAlignY=55&descAlign=50" alt="Konstantin Polosin">
+</p>
 
-- 🎯 I'm currently working as a **full-stack wordpress developer**
+<!-- Short Intro -->
+<h3 align="center">Building smart, fast & scalable solutions with WordPress, PHP & modern web tech.</h3>
 
-- 🌱 I’m currently learning **vanilla js**
+<p align="center">
+  <a href="https://kpolosin.com/vcard">
+    <img src="https://img.shields.io/badge/View%20my%20vCard-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="vCard link">
+  </a>
+</p>
 
-- 👨‍💻 All of my projects and more info are available at **[kpolosin.com](https://kpolosin.com/)**
+<p align="center">
+  <a href="https://github.com/kpolosin"><img src="https://komarev.com/ghpvc/?username=kpolosin&style=flat-square&color=blue" alt="Profile views"/></a>
+  <a href="https://github.com/kpolosin?tab=followers"><img src="https://img.shields.io/github/followers/kpolosin?style=flat-square&color=blue" alt="Followers"/></a>
+  <a href="https://kpolosin.com"><img src="https://img.shields.io/badge/Portfolio-kpolosin.com-blue?style=flat-square" alt="Portfolio"/></a>
+</p>
 
-- 👻 My simple profile card with cool UI are available at **[kpolosin.github.io](https://kpolosin.github.io/)**
+---
 
-- 💬 Ask me about **wordpress, php, js, front-end/back-end**
+### 👋 About Me
+I’m a **Full-Stack WordPress Developer** focused on building clean, efficient, and reliable web applications.  
+My work covers **the entire development cycle** — from idea and UI implementation to back-end architecture, performance, and automation.
 
-- 📫 How to reach me **user0403@gmail.com**
+💡 I create:
+- Custom **themes**, **plugins**, and **MU-plugins**
+- Complex integrations and **API-driven systems**
+- **Automation tools** and WordPress-based applications
+- **Pixel-perfect front-end** from design mockups
+- Scalable technical solutions for **startups and enterprises**
 
-- 📄 Know about my experiences [https://kpolosin.com/wp-content/themes/kp/CV/Konstantin_Polosin_CV_2020.pdf](https://kpolosin.com/wp-content/themes/kp/CV/Konstantin_Polosin_CV_2020.pdf)
+Worked across diverse industries — **beauty, automotive, e-commerce, pharmacy, art, and more** — always aiming for technical precision and elegant simplicity.
 
-- ⚡ Fun fact **Like everyone, I like to play video games, watch movies and TV shows, spend time with my family and sleep for a long time at the weekend.**
+---
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://emberjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg" alt="ember" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+### 🧠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress,php,composer,js,ts,html,css,sass,bootstrap,tailwind,react,vue,webpack,gulp,laravel,symfony,mysql,sqlite,postgres,redis,nginx,apache,linux,ubuntu,bash,aws,cloudflare,docker,git,github,bitbucket,postman,figma,vscode,idea,regex,json,graphql,nodejs,npm,yarn" />
+</p>
+
+---
+
+### ⚙️ Currently Working On
+- Advanced plugin architecture for **enterprise WordPress** projects
+- Automated **CI/CD** workflows and infrastructure optimizations
+- **Performance** tuning and clean **PHP/JS** patterns
+
+---
+
+### 🌍 Connect
+<p align="center">
+  <a href="https://kpolosin.com"><img src="https://img.shields.io/badge/Website-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://kpolosin.com/vcard"><img src="https://img.shields.io/badge/vCard_Profile-0A66C2?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+  <a href="https://app.kpolosin.com/"><img src="https://img.shields.io/badge/Sandbox_App-2D2E83?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://kpolosin.github.io/"><img src="https://img.shields.io/badge/Profile_Card-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/konstantinpolosin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:user0403@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 🎮 Fun Fact
+When I’m not coding, I’m probably **playing games, watching movies, or exploring new tech ideas**.  
+Sleep? Optional. ☕
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer"/>
+</p>
