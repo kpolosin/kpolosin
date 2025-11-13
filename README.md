@@ -37,7 +37,7 @@ Worked across diverse industries — **beauty, automotive, e-commerce, pharmacy,
 
 ### 🧠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,php,composer,js,ts,html,css,sass,bootstrap,tailwind,react,vue,webpack,gulp,laravel,symfony,mysql,sqlite,postgres,redis,nginx,apache,linux,ubuntu,bash,aws,cloudflare,docker,git,github,bitbucket,postman,figma,vscode,idea,regex,json,graphql,nodejs,npm,yarn" />
+  <img src="https://skillicons.dev/icons?i=wordpress,php,js,ts,html,css,sass,bootstrap,tailwind,react,vue,webpack,gulp,laravel,symfony,mysql,sqlite,postgres,redis,nginx,linux,ubuntu,bash,aws,cloudflare,docker,git,github,bitbucket,postman,figma,vscode,idea,regex,graphql,nodejs,npm,yarn" />
 </p>
 
 ---
