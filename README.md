@@ -37,7 +37,7 @@ Worked across diverse industries — **beauty, automotive, e-commerce, pharmacy,
 
 ### 🧠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,php,js,ts,html,css,sass,webpack,gulp,laravel,mysql,postgres,redis,nginx,linux,bash,aws,docker,git,figma,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=wordpress,php,composer,js,ts,html,css,sass,bootstrap,tailwind,react,vue,webpack,gulp,laravel,symfony,mysql,sqlite,postgres,redis,nginx,apache,linux,ubuntu,bash,aws,cloudflare,docker,git,github,bitbucket,postman,figma,vscode,idea,regex,json,graphql,nodejs,npm,yarn" />
 </p>
 
 ---
@@ -66,10 +66,6 @@ When I’m not coding, I’m probably **playing games, watching movies, or explo
 Sleep? Optional. ☕
 
 ---
-
-![Dev Joke](https://readme‑jokes.vercel.app/api)
-
-[![Joke of the moment](https://readme‑jokes.vercel.app/api)](https://github.com/ABSphreak/readme-jokes)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer"/>
