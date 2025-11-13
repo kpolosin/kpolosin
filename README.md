@@ -67,6 +67,11 @@ Sleep? Optional. ☕
 
 ---
 
+<!-- Jokes Card -->
+![Dev Joke](https://readme‑jokes.vercel.app/api)
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer"/>
 </p>
