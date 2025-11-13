@@ -1,39 +1,71 @@
-<h1 align="center">Hi 👋 I’m Konstantin Polosin</h1>
-<h3 align="center">Full-Stack WordPress Developer | PHP • JavaScript • Web & E-commerce</h3>
-
+<!-- Banner -->
 <p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://komarev.com/ghpvc/?username=your-username&color=blue" alt="Profile views"/>
-  </a>
-  <a href="https://github.com/your-username?tab=followers">
-    <img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" alt="GitHub followers"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Konstantin%20Polosin&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20WordPress%20Developer&descAlignY=55&descAlign=50" alt="Konstantin Polosin">
 </p>
 
-### 🔎 About Me
-I build and maintain high-quality web solutions for diverse industries (e-commerce, automotive, beauty, health). My core expertise is full-stack development with WordPress: custom themes, plugins, integrations and performance optimisation.
+<!-- Short Intro -->
+<h3 align="center">Building smart, fast & scalable solutions with WordPress, PHP & modern web tech.</h3>
 
-### 💡 What I Do
-- Architect and implement WordPress-based systems with custom PHP logic, modern JS, REST/GraphQL APIs.
-- Lead full-cycle web projects: from requirements and UI/UX to deployment, monitoring and maintenance.
-- Tackle edge problems: high traffic, third-party integrations, complex data workflows.
-
-### 🛠 Tech & Tools
 <p align="center">
-&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="30" height="30" />  
-&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="30" height="30" />  
-&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="30" height="30" />  
-&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30" height="30" />  
-&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30" />  
-&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30" />  
-&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30" />  
+  <a href="https://github.com/kpolosin"><img src="https://komarev.com/ghpvc/?username=kpolosin&style=flat-square&color=blue" alt="Profile views"/></a>
+  <a href="https://github.com/kpolosin?tab=followers"><img src="https://img.shields.io/github/followers/kpolosin?style=flat-square&color=blue" alt="Followers"/></a>
+  <a href="https://kpolosin.com"><img src="https://img.shields.io/badge/Portfolio-kpolosin.com-blue?style=flat-square" alt="Portfolio"/></a>
 </p>
 
-### 📫 Connect with Me
-- Website: [kpolosin.com](https://kpolosin.com)
-- Email: user0403@gmail.com
-- Profile Card: [kpolosin.github.io](https://kpolosin.github.io)
-- Open to chats on WordPress, PHP, JS, front-end/back-end topics.
+---
 
-### 🎯 Bonus
-Fun fact: I’m a gaming, movie & TV shows enthusiast — weekend recharge mode activated.  
+### 👋 About Me
+I’m a **Full-Stack WordPress Developer** focused on building clean, efficient, and reliable web applications.  
+My work covers **the full development cycle** — from idea and UI implementation to back-end architecture, performance, and automation.
+
+💡 I create:
+- Custom themes, plugins, and MU-plugins
+- Complex integrations and API-driven systems
+- Automation tools and WordPress-based applications
+- Pixel-perfect front-end from design mockups
+- Scalable technical solutions for both startups and commercial projects
+
+Worked across various industries: **beauty, automotive, e-commerce, pharmacy, art, and more** — always aiming for technical excellence and elegant simplicity.
+
+---
+
+### 🧠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress,php,js,html,css,sass,webpack,gulp,laravel,mysql,sqlite,nginx,linux,docker,git,figma,vscode" />
+</p>
+
+---
+
+### ⚙️ Currently Working On
+- Custom plugin architecture for enterprise WordPress sites
+- Performance optimization & CI/CD automation
+- Exploring clean code patterns in PHP & Vanilla JS
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kpolosin&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kpolosin&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+### 🌍 Connect
+<p align="center">
+  <a href="https://kpolosin.com"><img src="https://img.shields.io/badge/Website-0078D4?style=for-the-badge&logo=Google-chrome&logoColor=white" /></a>
+  <a href="https://kpolosin.github.io/"><img src="https://img.shields.io/badge/Profile_Card-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:user0403@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 🎮 Fun Fact
+When I’m not coding, I’m probably **playing games, watching movies or exploring new tech ideas**.  
+Sleep? Optional. ☕
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer"/>
+</p>
