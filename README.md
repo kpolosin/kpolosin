@@ -64,9 +64,3 @@ Worked across diverse industries — **beauty, automotive, e-commerce, pharmacy,
 ### 🎮 Fun Fact
 When I’m not coding, I’m probably **playing games, watching movies, or exploring new tech ideas**.  
 Sleep? Optional. ☕
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer"/>
-</p>
